@@ -79,10 +79,11 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   
 ## Adding to this list
 
+- Review the list before adding links from other sources to avoid the repetition of katas.
 - Use the following format: `[List Name/kata](link)`
 - You can add your own kata to the list in a PR. Please add it to the `Others` section along with your name or profile link: `(your kata (by [yourname])`.
 
-***Any ideas on how to make this list more comprehensible are always welcome.***
+***Any ideas on how to make this list better are always welcome.***
 
 ## License
 
