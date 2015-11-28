@@ -8,7 +8,7 @@
 - [Dave Thomas's CodeKata](#codekata)
 - [Wonderland Clojure Katas](#wonderland-clojure-katas)
 - [SensioLabs PoleDev Katas](#sensiolabs-poledev-katas)
-- [Gaurav Arora's TDD Katas Collection] (Contains some katas from CodingDojo and butunclebob.com)
+- [Gaurav Arora's TDD Katas Collection](#gaurav-aroras-tdd-katas-collection) (Contains some katas from CodingDojo and butunclebob.com)
 - [Others](#others)
 - [Contribution](#contribution)
 
