@@ -75,6 +75,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
   - [Look and Say Sequence](https://en.wikipedia.org/wiki/Look-and-say_sequence)
   - [AKS primality test](https://en.wikipedia.org/wiki/AKS_primality_test)
+  - [Roman Numeral Converter](https://en.wikipedia.org/wiki/Roman_numerals)
 
 # Contribution
   
