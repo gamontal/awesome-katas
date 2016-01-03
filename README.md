@@ -78,8 +78,9 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [AKS primality test](https://en.wikipedia.org/wiki/AKS_primality_test)
   - [Roman Numeral Converter](https://en.wikipedia.org/wiki/Roman_numerals)
   - [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
+  - [ES6 Katas](http://es6katas.org/)
 
-# Contribution
+## Contribution
   
 #### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md).
 
