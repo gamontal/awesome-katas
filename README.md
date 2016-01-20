@@ -80,6 +80,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
   - [ES6 Katas](http://es6katas.org/)
   - [.Net Code Katas](https://github.com/AlanBarber/CodeKatas)
+  - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
 
 ## Contribution
   
