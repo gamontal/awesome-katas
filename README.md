@@ -1,7 +1,7 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 # Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of katas
+> A curated list of code katas
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 - [Dave Thomas's CodeKata](#codekata)
 - [Wonderland Clojure Katas](#wonderland-clojure-katas)
 - [SensioLabs PoleDev Katas](#sensiolabs-poledev-katas)
-- [Gaurav Arora's TDD Katas Collection](#gaurav-aroras-tdd-katas-collection) (Contains some katas from CodingDojo and butunclebob.com)
+- [Gaurav Arora's TDD Katas Collection](#gaurav-aroras-tdd-katas-collection)
 - [Others](#others)
 - [Contribution](#contribution)
 
@@ -83,6 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
   - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
   - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
+  - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 
 ## Contribution
   
