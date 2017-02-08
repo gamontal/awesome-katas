@@ -48,12 +48,12 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
   - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
-## [SensioLabs PoleDev Katas](https://github.com/poledev/Katas)
-  - [Kata 1: (Form) DataTransformer](https://github.com/poledev/Katas/tree/kata-data-transformers)
-  - [Kata 2: (EventDispatcher) Event Listener / Event Dispatcher](https://github.com/poledev/Katas/tree/kata-event-listener)
-  - [Kata 3: (Form) Inherit data / Virtual Form](https://github.com/poledev/Katas/tree/kata-inherit-data)
-  - [Kata 4: (Form) File Upload](https://github.com/poledev/Katas/tree/kata-upload-file)
-  - [Kata 5: (Translation) Manage translations](https://github.com/poledev/Katas/tree/kata-translation)
+## [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas)
+  - [Kata 1: (Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
+  - [Kata 2: (EventDispatcher) Event Listener / Event Dispatcher](https://github.com/devdrops/Katas/tree/kata-event-listener)
+  - [Kata 3: (Form) Inherit data / Virtual Form](https://github.com/devdrops/Katas/tree/kata-inherit-data)
+  - [Kata 4: (Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file)
+  - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
 
 ## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
   - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata)
