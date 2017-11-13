@@ -85,7 +85,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
   - [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata)  
-
+  - [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 ## Contribution
   
 #### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md).
