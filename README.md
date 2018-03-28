@@ -90,6 +90,8 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata)  
   - [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata)
   - [incremental_katas](https://github.com/Gianfrancoalongi/incremental_katas)
+  - [CLI Arguments Parser Kata](https://github.com/ivoputzer/cli-args-parser-kata)
+  
 ## Contribution
   
 #### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md).
