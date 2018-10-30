@@ -30,7 +30,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata11: Sorting It Out](http://codekata.com/kata/kata11-sorting-it-out/)
   - [Kata12: Best Sellers](http://codekata.com/kata/kata12-best-sellers/)
   - [Kata13: Counting Code Lines](http://codekata.com/kata/kata13-counting-code-lines/)
-  - [Kata14: Tom Swift Under the Milkwood](http://codekata.com/kata/kata14-tom-swift-under-the-milkhood/)
+  - [Kata14: Tom Swift Under the Milkwood](http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/)
   - [Kata15: A Diversion](http://codekata.com/kata/kata15-a-diversion/)
   - [Kata16: Business Rules](http://codekata.com/kata/kata16-business-rules/)
   - [Kata17: More Business Rules](http://codekata.com/kata/kata17-more-business-rules/)
