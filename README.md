@@ -96,6 +96,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata)
   - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas)
   - [Katalyst] (https://katalyst.codurance.com/)
+  - [The Beverages Prices Refactoring Kata](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
   
 ## Contribution
   
