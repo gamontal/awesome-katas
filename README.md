@@ -106,6 +106,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose)
   - [Java by Comparison Kata](https://java.by-comparison.com/kata)
   - [DNA Transcription Kata](https://github.com/nickdelgrosso/dna-transcription-kata)
+  - [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf)
   
 ## Contribution
   
