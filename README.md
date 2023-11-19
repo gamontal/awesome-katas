@@ -102,6 +102,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
   - [Train Reservation kata](https://github.com/emilybache/KataTrainReservation)
   - [Password-strength Checker TDD Kata](https://github.com/xpepper/PasswordStrengthChecker)
+  - [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata)
   - [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
   - [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose)
   - [Java by Comparison Kata](https://java.by-comparison.com/kata)
