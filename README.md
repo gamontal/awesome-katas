@@ -114,6 +114,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
   - [Docker Katas](https://github.com/eficode-academy/docker-katas)
   - [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
+  - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise)
   
 ## Contribution
   
